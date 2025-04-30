@@ -1,6 +1,6 @@
 # Real-Time Emotion Detection using CNN on FER-2013
 
-A course project for *Machine Learning (EE524)* at IIT Guwahati under the guidance of **Dr. M.K. Bhuyan**, this project involves building a real-time emotion detection system using Convolutional Neural Networks (CNNs) trained on the FER-2013 dataset.
+This project involves building a real-time emotion detection system using Convolutional Neural Networks (CNNs) trained on the FER-2013 dataset.
 
 ## 🚀 Overview
 
@@ -53,4 +53,4 @@ This project aims to classify facial expressions into emotions such as **Happy**
 Run the Gradio app:
 
 ```bash
-python app.py
+python emotion_app.py
